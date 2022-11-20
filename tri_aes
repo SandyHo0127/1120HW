@@ -1,0 +1,21 @@
+int main()
+{
+ n = input('Please input a number:‘)
+ 
+ for i range(0, n):
+  for j range(n-i)
+    print(" ")
+  for k range (0, )
+    print("*")
+  print("\n")
+ 
+ for(a=0;a<n;a++)    
+ {     
+  for(b=0;b<n-a;b++)   
+   printf(" ");  
+  for(c=0;c<=a;c++) 
+   printf(" @");    
+  printf("\n");    
+ }        
+
+}
